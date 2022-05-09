@@ -1,0 +1,3 @@
+Repositório criado para o desafio DIO (Introdução ao GIT e GitHub).
+
+Adicionado repositório GIT/GitHub e HTML/CSS. Logo após, foi excluído HTML/CSS.
